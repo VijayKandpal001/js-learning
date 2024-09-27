@@ -24,3 +24,14 @@ console.log(typeof name);
 console.log(typeof isEnginner);
 console.log(typeof null); // type is object
 console.log(typeof undefined); // type is undefined
+
+
+
+
+/* FOR REFERENCE
+
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+    https://262.ecma-international.org/
+
+*/
