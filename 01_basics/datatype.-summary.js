@@ -1,5 +1,4 @@
 //  Primitive
-
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
 const score = 100
@@ -19,7 +18,6 @@ console.log(id === anotherId);
 
 
 // Reference (Non primitive)
-
 // Array, Objects, Functions
 
 const heros = ["shaktiman", "naagraj", "doga"];
@@ -33,5 +31,6 @@ const myFunction = function(){
 }
 
 console.log(typeof anotherId);
+console.log(typeof(isLoggedIn));
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
